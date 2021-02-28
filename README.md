@@ -6,7 +6,7 @@ Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
 
 # Prototyp/Präsentation
 [Hier gehts zu unserem Prototyp](https://www.figma.com/proto/BxNzxbA6X0EJOTPzCRCNOI/ERA-Prototype?node-id=1%3A15&viewport=353%2C623%2C0.16094492375850677&scaling=min-zoom) \
-[Hier die Präsentation zum Pitch](https://www.figma.com/proto/Z9y0hwTihqf9EbyVbNEfHL/ERA-Pr%C3%A4sentation?node-id=44[…]68&viewport=774%2C304%2C0.09101607650518417&scaling=scale-down)
+[Hier die Präsentation zum Pitch](https://www.figma.com/proto/Z9y0hwTihqf9EbyVbNEfHL/ERA-Pr%C3%A4sentation?node-id=54[…]4&viewport=1094%2C399%2C0.13976119458675385&scaling=scale-down)
 
 # Kurzbeschreibung
 Unsere Mobilität befindet sich momentan im dramatischen Wandel. Neben dem klassischen Verbrennungsmotoren befinden sich alternative Antriebe wie Elektro,
