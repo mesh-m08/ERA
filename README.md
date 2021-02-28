@@ -1,5 +1,5 @@
 # ERA -Emergency Rescue Assistant
-
+Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
 # Slogan
 Über 3.000 Verkehrstote. -Das ist die traurige Bilanz jedes Jahr in Deutschland!
 
@@ -25,7 +25,6 @@ Unser System würde damit auch ein bestehendes überholtes System eCall ablösen
 Dieses weist, da es nicht auf die 5G Technologie konzipiert ist, extreme Defizite in der Datenbereitstellung auf und kann somit den Herausforderungen,
 gerade im Hinblick auf die diversen den Antriebssträngen, nicht gerecht wird.
 
-Solution / Prototyp Link / Dokumentation / Beschreibung
 # Name des Teams und der einzelnen Teammitglieder
 - Natalie Arnold
 - Nils Damm
