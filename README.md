@@ -4,7 +4,7 @@ Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
 # Slogan
 Über 3.000 Verkehrstote. -Das ist die traurige Bilanz jedes Jahr in Deutschland!
 
-# Prototyp
+# Prototyp/Präsentation
 [Hier gehts zu unserem Prototyp](https://www.figma.com/proto/Z9y0hwTihqf9EbyVbNEfHL/eCall-5G?node-id=15%3A9&viewport=461%2C402%2C0.18452617526054382&scaling=scale-down)
 
 # Kurzbeschreibung
