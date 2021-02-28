@@ -1,5 +1,5 @@
 # ERA -Emergency Rescue Assistant
-![logo](https://github.com/mesh-m08/ERA/blob/main/logo.png)
+![logo](https://github.com/mesh-m08/ERA/blob/main/logo.png) \
 Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
 # Slogan
 Über 3.000 Verkehrstote. -Das ist die traurige Bilanz jedes Jahr in Deutschland!
